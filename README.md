@@ -25,7 +25,7 @@
 
 ## Installation
 
-- `git clone https://github.com/AnowarCST/laravel-vue-crud-starter.git`
+- `git clone https://github.com/Wuirlen/laravel_vue.git`
 - `cd laravel_vue/`
 - `composer install`
 - `cp .env.example .env`
